@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Code for HW6
  * 
- * @author Ankit Reddi
+ * @author Ram
  */
 public class LookupTable {
 	private ArrayList<Item> Zip_key;
